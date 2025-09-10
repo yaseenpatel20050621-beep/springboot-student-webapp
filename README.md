@@ -20,7 +20,7 @@ A full-stack web application built using Spring Boot for managing student record
 - Java 17+
 - Spring Boot (Web, JPA, Thymeleaf)
 - Thymeleaf (HTML templating)
-- MySQL / H2 Database
+- MySQL
 - Maven
 
 ## ⚙️ How to Run Locally
