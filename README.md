@@ -13,9 +13,7 @@ A full-stack web application built using Spring Boot for managing student record
 ## 🖼️ UI Screens
 
 - 📋 Student List View
-- ➕ Add Student Form
-- ✏️ Edit Student Page
-- ❌ Delete Confirmation
+
 
 ## 🛠 Tech Stack
 
